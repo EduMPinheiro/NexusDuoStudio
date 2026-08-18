@@ -1,3 +1,8 @@
 # Capturas locais usadas apenas para validação visual
 nexus-duo-*.png
 
+# Dependências e artefatos locais
+node_modules/
+dist/
+*.tsbuildinfo
+
